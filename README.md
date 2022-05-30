@@ -1,5 +1,5 @@
 # README
-電子書籍「<a href="https://www.amazon.co.jp/%E3%82%BC%E3%83%AD%E3%81%8B%E3%82%89%E3%81%AF%E3%81%98%E3%82%81%E3%82%8BC-%E7%AC%AC1%E9%83%A8-Hiro-Furukawa-ebook/dp/B0B2MR29CV/ref=sr_1_1?qid=1653916855&refinements=p_27%3AHiro+Furukawa&s=digital-text&sr=1-1&text=Hiro+Furukawa" target="_blank">ゼロからはじめるC# [第一部]</a>」で作成するすべてのサンプルコードを配布するためのリポジトリです。GitHub以外でもブログの特典ページである「<a href="https://hirofurukawa.com/reward-the-basics-of-csharp-1/" target="_blank">【特典】ゼロからはじめるC# [第1部]</a>」でも配布を行っています。
+電子書籍「<a href="https://www.amazon.co.jp/%E3%82%BC%E3%83%AD%E3%81%8B%E3%82%89%E3%81%AF%E3%81%98%E3%82%81%E3%82%8BC-%E7%AC%AC1%E9%83%A8-Hiro-Furukawa-ebook/dp/B0B2MR29CV/ref=sr_1_1?qid=1653916855&refinements=p_27%3AHiro+Furukawa&s=digital-text&sr=1-1&text=Hiro+Furukawa" target="_blank" rel="noopener noreferrer">ゼロからはじめるC# [第一部]</a>」で作成するすべてのサンプルコードを配布するためのリポジトリです。GitHub以外でもブログの特典ページである「<a href="https://hirofurukawa.com/reward-the-basics-of-csharp-1/" target="_blank" rel="noopener noreferrer">【特典】ゼロからはじめるC# [第1部]</a>」でも配布を行っています。
 
 ## 概要
 プログラミング言語 C# が学べる入門書です。
